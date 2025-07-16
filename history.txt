@@ -1,0 +1,130 @@
+ ntuser.ini
+
+9812080758088@RDS MINGW64 ~
+$ cd Documents
+
+9812080758088@RDS MINGW64 ~/Documents
+$ cd ..
+
+9812080758088@RDS MINGW64 ~
+$ ls
+ AppData/             Desktop/     Links/             NTUSER.DAT                                                                                     NetHood@     Recent@        'Start Menu'@   ntuser.dat.LOG1
+'Application Data'@   Documents/  'Local Settings'@   NTUSER.DAT{f50dea4b-3714-11f0-9cd4-00155d041a00}.TM.blf                                        OneDrive/   'Saved Games'/   Templates@     ntuser.dat.LOG2
+ Contacts/            Downloads/   Music/             NTUSER.DAT{f50dea4b-3714-11f0-9cd4-00155d041a00}.TMContainer00000000000000000001.regtrans-ms   Pictures/    Searches/       Videos/        ntuser.ini
+ Cookies@             Favorites/  'My Documents'@     NTUSER.DAT{f50dea4b-3714-11f0-9cd4-00155d041a00}.TMContainer00000000000000000002.regtrans-ms   PrintHood@   SendTo@         WINDOWS/
+
+9812080758088@RDS MINGW64 ~
+$ cd Desktop
+
+9812080758088@RDS MINGW64 ~/Desktop
+$ ls
+'Microsoft Edge.lnk'*  'Visual Studio Code.lnk'*   desktop.ini   hello-word/   task-1-prac/
+
+9812080758088@RDS MINGW64 ~/Desktop
+$ cd task-1-prac
+
+9812080758088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ nano shell_intro.sh
+
+9812080758088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ nano shell_intro.sh
+
+9812080758088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ nano shell_intro.sh
+
+9812080758088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ chmod +x shell_intro.sh
+
+9812080758088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ ./shell_intro.sh
+Welcome to the shell
+/c/Users/9812080758088/Desktop/task-1-prac
+reflection.txt  shell_arch_pract.md  shell_arch_task.txt  shell_intro.sh
+
+9812080758088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ touch reflection.txt
+
+9812080758088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ echo "it reads and interprets the commands typed bt the user,I learned how to interact directly with the operating system,using the terminal is different becouse you type commands instead of clicking with a mouse"> reflection.txt
+
+9812080758088@RDS MINGW64 ~/Desktop/task-1-prac (main)
+$ history
+    1  node -v
+    2  ls
+    3  mkdir practice
+    4  cd practice
+    5  echo $null > "practice.txt"
+    6  echo "my name " > practice.txt
+    7   echo "rixongile maluleke" > practice.txt
+    8  git clonehttps://github.com/Rixongile98/hello-world.git
+    9  cd task-1-prac
+   10  ls
+   11  cd hello-world
+   12  ls
+   13  cd hello-world
+   14  git clone https://github.com/Rixongile98/task-1-prac.git
+   15  git pull origin main
+   16  git pull origin main
+   17  cd task-1-prac
+   18  git pull origin main
+   19  code .
+   20  cd task-1-prac
+   21  cd deskyt
+   22  cd desktop
+   23  cd task-1-prac
+   24  echo "The shell is my translator to the OS"
+   25  PWP
+   26  IS
+   27  pwp
+   28  pwd
+   29  ls
+   30  cd
+   31  cd Docunents
+   32  cd deskop
+   33  cd desktop
+   34  cd task-p1-prac
+   35  cd destop
+   36  cd desktop
+   37  cd task-1-prac
+   38  cd documents
+   39  cd ..
+   40  cd ..
+   41  ls
+   42  cd Documents
+   43  cd ..
+   44  cd Desktop
+   45  ls
+   46  cd task-1-prac
+   47  nano shell_intro.sh
+   48  echo "welcome to the shell"
+   49  pwd
+   50  ls
+   51  chmod
+   52  chmod +x shell_intro.sh
+   53  /shell_intro.sh
+   54  touch reflection.txt
+   55  ls
+   56  cd task-1-prac
+   57  ls
+   58  echo "The shell is my translator to the OS"
+   59  pwd
+   60  ls
+   61  cd ..
+   62  cd ..
+   63  ls
+   64  cd Documents
+   65  cd ..
+   66  ls
+   67  cd Desktop
+   68  ls
+   69  cd task-1-prac
+   70  nano shell_intro.sh
+   71  nano shell_intro.sh
+   72  nano shell_intro.sh
+   73  chmod +x shell_intro.sh
+   74  ./shell_intro.sh
+   75  touch reflection.txt
+   76  echo "it reads and interprets the commands typed bt the user,I learned how to interact directly with the operating system,using the terminal is different becouse you type commands instead of clicking with a mouse"> reflection.txt
+   77  history
+
+9812080758088@RDS MINGW64 ~/Desktop/task-1-prac (main)

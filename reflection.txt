@@ -1,0 +1,1 @@
+it reads and interprets the commands typed bt the user,I learned how to interact directly with the operating system,using the terminal is different becouse you type commands instead of clicking with a mouse
